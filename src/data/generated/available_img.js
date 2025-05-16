@@ -1,0 +1,1 @@
+const availableImg = ["10409216","10445007","deng2025segment","li2022maskdinounifiedtransformerbased","lin2022learningobjectlanguagealignmentsopenvocabulary","Luo_2020_CVPR","rao2022densecliplanguageguideddenseprediction","SAPKOTA202484","shen2023distilledfeaturefieldsenable","zhao2023fastsegment"];
